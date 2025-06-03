@@ -12,3 +12,11 @@ table, th, td {
     font-size: 18px;
 
 }
+
+h1 {
+    font-size: 30px;
+}
+
+img {
+    border-radius: 8px;;
+}
