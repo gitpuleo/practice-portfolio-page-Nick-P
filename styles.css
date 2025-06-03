@@ -1,0 +1,14 @@
+body {
+    background-color: lightslategray;
+
+}
+
+p {
+   font-size: 18px; 
+}
+
+table, th, td {
+    border: 1px solid;
+    font-size: 18px;
+
+}
